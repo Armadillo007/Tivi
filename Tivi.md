@@ -41,7 +41,8 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 #EXTINF:-1 xui-id="000" tvg-id="" tvg-country="MY" tvg-language="Malay" group-title="MALAYSIA" tvg-name="TV Ikim" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg",TV Ikim
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
-#EXTINF:-1 tvg-id="611" group-title="MALAYSIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230" ch-number="611", Astro Ceria http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=71080
+#EXTINF:-1 tvg-id="611" tvg-name="CERIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="MALAYSIA",CERIA
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=71080
 
 #EXTINF:-1 xui-id="AstroAwani" tvg-id="AstroAwani" tvg-country="MY" tvg-language="Malay" group-title="MALAYSIA" tvg-name="Astro Awani" tvg-logo="https://img.astroawani.com/template/awani.jpg",CH501 Astro Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
@@ -307,7 +308,7 @@ https://conversant.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 group-title="MY : LIVE" tvg-id="816" tvg-chno="100" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/bfc0c9e433a4484c8f30b93aaf043f2b/version/0/width/368/height/208/quality/80",SPOTV
+#EXTINF:-1 group-title="Sport" tvg-id="816" tvg-chno="100" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/bfc0c9e433a4484c8f30b93aaf043f2b/version/0/width/368/height/208/quality/80",SPOTV
 https://conversant.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 
 
