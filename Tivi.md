@@ -294,7 +294,7 @@ http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SW
 #EXTINF:-1 tvg-id="814" tvg-name="SUPERSPORT 4" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport4.png" group-title="Sport",SUPERSPORT 4
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=1719
 
-#EXTINF:-1 tvg-id="815" tvg-name="SUPERSPORT 5" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png" group-title="Sport",Astro Supersport 5
+#EXTINF:-1 tvg-id="815" tvg-name="SUPERSPORT 5" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png" group-title="Sport",SUPERSPORT 5
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022011502&password=123456&stream=968
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -310,7 +310,7 @@ https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTINF:-1 tvg-id="Bein3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="Sport",BEIN SPORTS 3
-https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
