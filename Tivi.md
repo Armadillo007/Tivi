@@ -294,13 +294,18 @@ http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SW
 #EXTINF:-1 tvg-id="814" tvg-name="SUPERSPORT 4" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport4.png" group-title="Sport",SUPERSPORT 4
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=1719
 
-#EXTINF:-1 tvg-id="815" tvg-name="Astro Supersport 5" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png" group-title="Sport",Astro Supersport 5
+#EXTINF:-1 tvg-id="815" tvg-name="SUPERSPORT 5" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png" group-title="Sport",Astro Supersport 5
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022011502&password=123456&stream=968
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTINF:-1 tvg-id="Bein1" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/beinsport1.png" group-title="Sport",BEIN SPORTS 1
 https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="bEIN2" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/beinsport2.png" group-title="Sport",BEIN SPORTS 2
+https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
@@ -318,13 +323,13 @@ http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SW
 
 ==================Radio==============================================
 
-#EXTINF:0, tvg-id="856" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/NTRfd5ufMp.jpg" tvg-name="ERA FM"  group-title="RadioMalaysia",ERA FM
+#EXTINF:0, tvg-id="856" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/NTRfd5ufMp.jpg" tvg-name="ERA FM"  group-title="Radio",ERA FM
 http://astro2.rastream.com/era?type=.flv
 
 #EXTINF:-1 group-title="Radio" ch-number="701" tvg-id="701" tvg-chno="701" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIONASIONALLOGO170X96.png",Nasional FM
 https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017.m3u8
 
-#EXTINF:-1 group-title="Radio" ch-number="702" tvg-id="702" tvg-chno="702" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/RADIOlogoradiotraxxfm.png",Traxx FM
+#EXTINF:-1 group-title="Radio" ch-number="702" tvg-id="702" tvg-chno="702" tvg-logo="https://en.wikipedia.org/wiki/TraXX_FM#/media/File:TraXX_FM.png",Traxx FM
 https://traxxfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch019/rtm-ch019.m3u8
 
 #EXTINF:0, tvg-id="863" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/FM-Logo-THR-Gegar.jpg" tvg-name="THR"  group-title="Radio",THR GEGAR
@@ -345,5 +350,5 @@ http://astro1.rastream.com/hitz?type=.flv
 #EXTINF:0, tvg-id="855" tvg-logo="https://cdn-radiotime-logos.tunein.com/s7556g.png" tvg-name="MIX FM"  group-title="Radio",MIX FM
 http://astro2.rastream.com/mix?type=.flv
 
-#EXTINF:0, tvg-id="854" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Logo_of_LiteFM.svg/1200px-Logo_of_LiteFM.svg.png" tvg-name="LITE FM"  group-title="Radio",LITE FMkpsboy
+#EXTINF:0, tvg-id="854" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Logo_of_LiteFM.svg/1200px-Logo_of_LiteFM.svg.png" tvg-name="LITE FM"  group-title="Radio",LITE FM
 http://astro1.rastream.com/lite?type=.flv
