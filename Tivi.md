@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml"
+#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml""
 
 #EXTINF:-1 tvg-id="TV1" tvg-country="MY" tvg-language="Malay" group-title="MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101.png",CH101 TV1
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
