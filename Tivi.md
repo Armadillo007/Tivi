@@ -124,7 +124,7 @@ https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="305" tvg-name="CelestialMovie" tvg-logo="http://dusktill.masuk.web.id/img/cm.png" group-title="Movie",Celestial Movies
+#EXTINF:0 tvg-id="309" tvg-name="CelestialMovie" tvg-logo="http://dusktill.masuk.web.id/img/cm.png" group-title="Movie",Celestial Movies
 https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
