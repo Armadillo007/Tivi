@@ -44,7 +44,7 @@ http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 #EXTINF:-1 tvg-id="611" tvg-name="CERIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="MALAYSIA",CERIA
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=71080
 
-#EXTINF:-1 xui-id="501" tvg-id="501" tvg-country="MY" tvg-language="Malay" group-title="MALAYSIA" tvg-name="AWANI" tvg-logo="https://img.astroawani.com/template/awani.jpg",CH501 Astro Awani
+#EXTINF:-1 xui-id="501" tvg-id="501" tvg-country="MY" tvg-language="Malay" group-title="MALAYSIA" tvg-name="AWANI" tvg-logo="https://img.astroawani.com/template/awani.jpg",AWANI
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
 #EXTINF:-1 tvg-id="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png" group-title="MALAYSIA",RIA
