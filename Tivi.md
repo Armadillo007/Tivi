@@ -109,7 +109,7 @@ https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="304" tvg-name="Thrill" tvg-logo="http://dusktill.masuk.web.id/img/thrill.png" group-title="Movie",Thrill
+#EXTINF:0 tvg-id="CHN" tvg-name="Thrill" tvg-logo="http://dusktill.masuk.web.id/img/thrill.png" group-title="Movie",Thrill
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -333,10 +333,10 @@ http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SW
 #EXTINF:0, tvg-id="863" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/NTRfd5ufMp.jpg" tvg-name="ERA FM"  group-title="Radio",ERA FM
 http://astro2.rastream.com/era?type=.flv
 
-#EXTINF:-1 group-title="Radio" ch-number="701" tvg-id="701" tvg-chno="701" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIONASIONALLOGO170X96.png",Nasional FM
+#EXTINF:-1 group-title="Radio" ch-number="869" tvg-id="869" tvg-chno="869" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIONASIONALLOGO170X96.png",Nasional FM
 https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017.m3u8
 
-#EXTINF:-1 group-title="Radio" ch-number="702" tvg-id="702" tvg-chno="702" tvg-logo="https://en.wikipedia.org/wiki/TraXX_FM#/media/File:TraXX_FM.png",Traxx FM
+#EXTINF:-1 group-title="Radio" ch-number="872" tvg-id="872" tvg-chno="872" tvg-logo="https://en.wikipedia.org/wiki/TraXX_FM#/media/File:TraXX_FM.png",Traxx FM
 https://traxxfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch019/rtm-ch019.m3u8
 
 #EXTINF:0, tvg-id="863" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/FM-Logo-THR-Gegar.jpg" tvg-name="THR"  group-title="Radio",THR GEGAR
