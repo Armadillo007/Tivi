@@ -1,25 +1,28 @@
 #EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml"
 
-#EXTINF:-1 tvg-id="101" tvg-country="MY" tvg-language="Malay" group-title="MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101.png",CH101 TV1
+#EXTINF:-1 tvg-id="101" tvg-country="MY" tvg-language="Malay" group-title="MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101.png",TV1
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 
-#EXTINF:-1 tvg-id="102" tvg-country="MY" tvg-language="Malay" group-title="MALAYSIA" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",CH102 TV2
+#EXTINF:-1 tvg-id="102" tvg-country="MY" tvg-language="Malay" group-title="MALAYSIA" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
-#EXTINF:-1 tvg-id="103" tvg-country="MY" tvg-language="Malay" group-title="MALAYSIA" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png",CH103 TV3
+#EXTINF:-1 tvg-id="103" tvg-country="MY" tvg-language="Malay" group-title="MALAYSIA" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png",TV3
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 
-#EXTINF:-1 tvg-id="105" tvg-country="MY" tvg-language="Malay" group-title="MALAYSIA" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg",CH105 Drama Sangat
+#EXTINF:-1 tvg-id="105" tvg-country="MY" tvg-language="Malay" group-title="MALAYSIA" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg",Drama Sangat
 #EXTVLCOPT:http-referrer=https://dailymotion.com
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 
-#EXTINF:-1 tvg-id="RTMK06" tvg-country="MY" tvg-language="Malay" group-title="MALAYSIA" tvg-logo="https://mediahomes.github.io/logos/tv6.png",CH106 TV6
+#EXTINF:-1 tvg-id="RTMK04" tvg-country="MY" tvg-language="Malay" group-title="MALAYSIA" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Berita-NEW-PlayerLogo.jpg",Berita RTM
+https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
+
+#EXTINF:-1 tvg-id="RTMK06" tvg-country="MY" tvg-language="Malay" group-title="MALAYSIA" tvg-logo="https://mediahomes.github.io/logos/tv6.png",TV6
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 
-#EXTINF:-1 tvg-id="147" tvg-country="MY" tvg-language="Malay" group-title="MALAYSIA" DidikTV KPM" tvg-logo="https://didik.tv/images/logotv2.png",CH147 DidikTV KPM
+#EXTINF:-1 tvg-id="147" tvg-country="MY" tvg-language="Malay" group-title="MALAYSIA" DidikTV KPM" tvg-logo="https://didik.tv/images/logotv2.png",DidikTV KPM
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
 
 #EXTINF:-1 tvg-id="148" tvg-name="8TV" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428040_ico.png" group-title="MALAYSIA",8TV
@@ -28,13 +31,10 @@ http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SW
 #EXTINF:-1 tvg-id="149" tvg-name="TV9" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tv9.png" group-title="MALAYSIA",TV9
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=1729
 
-#EXTINF:-1 tvg-id="122" tvg-country="MY" tvg-language="Malay" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png" group-title="MALAYSIA",CH122 TVS
+#EXTINF:-1 tvg-id="122" tvg-country="MY" tvg-language="Malay" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png" group-title="MALAYSIA",TVS
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 
-#EXTINF:-1 tvg-id="RTMK04" tvg-country="MY" tvg-language="Malay" group-title="MALAYSIA" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Berita-NEW-PlayerLogo.jpg",CH123 Berita RTM
-https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
-
-#EXTINF:-1 tvg-id="146" tvg-country="MY" tvg-language="Malay" group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",CH146 OKEY
+#EXTINF:-1 tvg-id="146" tvg-country="MY" tvg-language="Malay" group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",OKEY
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 
