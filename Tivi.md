@@ -274,7 +274,7 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live12.mpd
 
-#EXTINF:-1 tvg-id="111" tvg-country="MY" tvg-language="Malay" group-title="Sport" tvg-logo="https://mediahomes.github.io/logos/sukan.png",CH111 Sukan RTM
+#EXTINF:-1 tvg-id="RTMK05" tvg-country="MY" tvg-language="Malay" group-title="Sport" tvg-logo="https://mediahomes.github.io/logos/sukan.png",CH111 Sukan RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 
