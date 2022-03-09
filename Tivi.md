@@ -304,7 +304,7 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live12.mpd
 http://1.9.62.170:80/PLTV/88888888/224/3221227891/video-Video1_7-631779.m4v?hw_dash=1&servicetype=1&rrsip=centerrrs.hypp.tv&zoneoffset=0&accounttype=1&limitflux=-1&limitdur=-1&tenantId=6001
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/Unifi-Sports-4.png/revision/latest/scale-to-width-down/300?cb=20210712113617" group-title="Sport",Unifi Sports 4
-http://1.9.62.164:80/PLTV/88888888/224/3221227912/video-Video1_3-init.m4i?hw_dash=1&servicetype=1&rrsip=centerrrs.hypp.tv&zoneoffset=0&accounttype=1&limitflux=-1&limitdur=-1&tenantId=6001
+http://1.9.62.164:80/PLTV/88888888/224/3221227912/3221227912.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Unifi-Sports-5.png/revision/latest/scale-to-width-down/300?cb=20210712113706" group-title="Sport",Unifi Sports 5
 http://1.9.62.158/PLTV/88888888/224/3221227705/3221227705.mpd
