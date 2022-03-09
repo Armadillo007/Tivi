@@ -46,7 +46,10 @@ http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39b114b7ebecd9d4a7f1c797dd885b10&key=8d2be29307bb382c8c6c286cc9cd07c6
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
 
-#EXTINF:-1 xui-id="501" tvg-id="501" tvg-country="MY" tvg-language="Malay" group-title="MALAYSIA" tvg-name="AWANI-DOWN" tvg-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SFL123592&password=J7JTK50R&stream=1704
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09891197fd467008f73b1fe18bfed710&key=fa752673e5da5541a796569371788dea
+#EXTINF:-1 xui-id="501" tvg-id="501" tvg-country="MY" tvg-language="Malay" group-title="MALAYSIA" tvg-name="AWANI" tvg-
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd
 
 #EXTINF:-1 tvg-id="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png" group-title="MALAYSIA",RIA TEST
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=735
@@ -292,20 +295,50 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 #EXTINF:-1 tvg-id="802" tvg-name="ARENA HD 2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="Sport",ARENA HD 2
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=965
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a35c43ff90d667ba1285ad0ae34ae810&key=99191e99138dc6aca5ed5febe3a817a4
+#EXTINF:-1 tvg-id="802" tvg-name="ARENA HD 2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="Sport",ARENA HD 2 - TEST
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
+
 #EXTINF:-1 tvg-id="811" tvg-name="SUPERSPORT" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="Sport",SUPERSPORT 1
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=972
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6d2d84310d3fb9230404a1fbf5b33d10&key=8be93a0a6b41efad87096080bc55211a
+#EXTINF:-1 tvg-id="811" tvg-name="SUPERSPORT" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="Sport",SUPERSPORT 1 - TEST
+http://linears-playback.astro.com.my/vsg/21ibgXR_X_F8A006O6r5GRLdNV8z7SgesoeoyhaRlxv8Y=LEwu/dash-wv/jitp-linearwm/601/default_ott.mpd
 
 #EXTINF:-1 tvg-id="812" tvg-name="SUPERSPORT 2" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport2.png" group-title="Sport",SUPERSPORT 2
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=971
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=369ee7aba1e1504f85366b899d81ef10&key=299fbf0f774920858ff4fabf0afbe6b7
+#EXTINF:-1 tvg-id="812" tvg-name="SUPERSPORT 2" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport2.png" group-title="Sport",SUPERSPORT 2 - TEST
+http://linears-playback.astro.com.my/vsg/21ibgXR_X_F8A006O6r5GRLdNV8z7SgesoeoyhaRlxv8Y=LEwu/dash-wv/jitp-linearwm/2104/default_ott.mpd
+
 #EXTINF:-1 tvg-id="813" tvg-name="SUPERSPORT 3" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport3.png" group-title="Sport",SUPERSPORT 3
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=970
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a522db0e2c8b90c38b64187018648a10&key=cf66fd59fe28f45418628313e06d52da
+#EXTINF:-1 tvg-id="813" tvg-name="SUPERSPORT 3" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport3.png" group-title="Sport",SUPERSPORT 3 - TEST
+http://linears-playback.astro.com.my/vsg/21ibgXR_X_F8A006O6r5GRLdNV8z7SgesoeoyhaRlxv8Y=LEwu/dash-wv/jitp-linearwm/2701/default_ott.mpd
 
 #EXTINF:-1 tvg-id="814" tvg-name="SUPERSPORT 4" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport4.png" group-title="Sport",SUPERSPORT 4
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=969
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0f38843b85760decb7a30fde6af3ff10&key=9c50a5c2b6219463f05c5d8f9f42892e
+#EXTINF:-1 tvg-id="814" tvg-name="SUPERSPORT 4" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport4.png" group-title="Sport",SUPERSPORT 4 - TEST
+http://linears-playback.astro.com.my/vsg/21ibgXR_X_F8A006O6r5GRLdNV8z7SgesoeoyhaRlxv8Y=LEwu/dash-wv/jitp-linearwm/2506/default_ott.mpd
+
 #EXTINF:-1 tvg-id="815" tvg-name="SUPERSPORT 5" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png" group-title="Sport",SUPERSPORT 5
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=968
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=113d6e58ea7e223e3fb4a9af3e927010&key=dc86f5d82e5dfaa0fbb22d220e023b7c
+#EXTINF:-1 tvg-id="815" tvg-name="SUPERSPORT 5" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png" group-title="Sport",SUPERSPORT 5 - TEST
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
@@ -331,6 +364,8 @@ https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e2a4758854ddf83f1e8f465a3d3d8910&key=a464e1f2f904d40f3235a57304e72d78
 #EXTINF:-1 tvg-id="800" tvg-name="eGG Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png" group-title="Sport",eGG Network
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2602/default_ott.mpd
+
+
 
 
 ==================Radio==============================================
