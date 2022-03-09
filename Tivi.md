@@ -300,6 +300,15 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live12.mpd
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Unifi-Sports-3.png/revision/latest/scale-to-width-down/300?cb=20210712113331" group-title="Sport",Unifi Sports 3
+http://1.9.62.170:80/PLTV/88888888/224/3221227891/video-Video1_7-631779.m4v?hw_dash=1&servicetype=1&rrsip=centerrrs.hypp.tv&zoneoffset=0&accounttype=1&limitflux=-1&limitdur=-1&tenantId=6001
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/Unifi-Sports-4.png/revision/latest/scale-to-width-down/300?cb=20210712113617" group-title="Sport",Unifi Sports 4
+http://1.9.62.164:80/PLTV/88888888/224/3221227912/video-Video1_3-init.m4i?hw_dash=1&servicetype=1&rrsip=centerrrs.hypp.tv&zoneoffset=0&accounttype=1&limitflux=-1&limitdur=-1&tenantId=6001
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Unifi-Sports-5.png/revision/latest/scale-to-width-down/300?cb=20210712113706" group-title="Sport",Unifi Sports 5
+http://1.9.62.179:80/PLTV/88888888/224/3221227705/video-Video1_7-631840.m4v?hw_dash=1&servicetype=1&rrsip=centerrrs.hypp.tv&zoneoffset=0&accounttype=1&limitflux=-1&limitdur=-1&tenantId=6001&mount=1000002&targetdev=1792
+
 #EXTINF:-1 tvg-id="RTMK05" tvg-country="MY" tvg-language="Malay" group-title="Sport" tvg-logo="https://mediahomes.github.io/logos/sukan.png",CH111 Sukan RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
@@ -376,6 +385,11 @@ https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTINF:-1 group-title="Sport" tvg-id="816" tvg-chno="100" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/bfc0c9e433a4484c8f30b93aaf043f2b/version/0/width/368/height/208/quality/80",SPOTV
 https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 group-title="Sport" tvg-id="816" tvg-chno="100" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257305_thumb-spotv-2.png",SPOTV2
+http://1.9.62.176:80/PLTV/88888888/224/3221227726/video-Video1_7-919939.m4v?hw_dash=1&servicetype=1&rrsip=centerrrs.hypp.tv&zoneoffset=0&accounttype=1&limitflux=-1&limitdur=-1&tenantId=6001&mount=1000002&targetdev=1685
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e2a4758854ddf83f1e8f465a3d3d8910&key=a464e1f2f904d40f3235a57304e72d78
