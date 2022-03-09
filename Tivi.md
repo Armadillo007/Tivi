@@ -29,7 +29,7 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/D
 https://stream-04.dc3.dailymotion.com:443/sec(_9ERdFwnAbs1GZsc1AwhHeVS4pujIZB8yZV4H4ASdw8)/dm/3/x6qud17/s/live-1.m3u8
 
 #EXTINF:-1 tvg-id="149" tvg-name="TV9" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tv9.png" group-title="MALAYSIA",TV9
-https://stream-01.sg1.dailymotion.com:443/sec(_9ERdFwnAbs1GZsc1AwhHZ9MsO7OMjIznbex3pTCZ9M)/dm/3/x6qqja6/s/stream-1-1646827031.ts
+https://stream-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 
 #EXTINF:-1 tvg-id="122" tvg-country="MY" tvg-language="Malay" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png" group-title="MALAYSIA",TVS
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
@@ -38,25 +38,30 @@ https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 
-#EXTINF:-1 xui-id="000" tvg-id="" tvg-country="MY" tvg-language="Malay" group-title="MALAYSIA" tvg-name="TV Ikim" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg",TV Ikim
+#EXTINF:-1 xui-id="000" tvg-id="" tvg-country="MY" tvg-language="Malay" group-title="MALAYSIA" tvg-name="TV Ikim-DOWN" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg",TV Ikim
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
-#EXTINF:-1 tvg-id="611" tvg-name="CERIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="MALAYSIA",CERIA
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SFL123592&password=J7JTK50R&stream=71080
+#EXTINF:-1 tvg-id="611" tvg-name="CERIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="MALAYSIA",CERIA TEST
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39b114b7ebecd9d4a7f1c797dd885b10&key=8d2be29307bb382c8c6c286cc9cd07c6
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
 
-#EXTINF:-1 xui-id="501" tvg-id="501" tvg-country="MY" tvg-language="Malay" group-title="MALAYSIA" tvg-name="AWANI" tvg-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SFL123592&password=J7JTK50R&stream=1704
+#EXTINF:-1 xui-id="501" tvg-id="501" tvg-country="MY" tvg-language="Malay" group-title="MALAYSIA" tvg-name="AWANI-DOWN" tvg-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SFL123592&password=J7JTK50R&stream=1704
 
-#EXTINF:-1 tvg-id="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png" group-title="MALAYSIA",RIA
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SFL123592&password=J7JTK50R&stream=1705
+#EXTINF:-1 tvg-id="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png" group-title="MALAYSIA",RIA TEST
+http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=735
 
-#EXTINF:-1 tvg-id="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png" group-title="MALAYSIA",WARNA
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SFL123592&password=J7JTK50R&stream=1706
+#EXTINF:-1 tvg-id="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png" group-title="MALAYSIA",WARNA TEST
+http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=4313
 
-#EXTINF:-1 tvg-id="108" tvg-name="CITRA" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/citra.png" group-title="MALAYSIA",CITRA
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SFL123592&password=J7JTK50R&stream=71146
+#EXTINF:-1 tvg-id="108" tvg-name="CITRA" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/citra.png" group-title="MALAYSIA",CITRA TEST
+http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=721
 
-#EXTINF:-1 tvg-id="105" tvg-name="PRIMA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png" group-title="MALAYSIA",PRIMA
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SFL123592&password=J7JTK50R&stream=71020
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 tvg-id="105" tvg-name="PRIMA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png" group-title="MALAYSIA",PRIMA TEST
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
@@ -161,10 +166,10 @@ https://liveanevia.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 #EXTINF:0 tvg-id="616" tvg-name="Nickelodeon" tvg-logo="http://dusktill.masuk.web.id/img/nickelodeon.png" group-title="Kids",Nickelodeon
 https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3e4bcc300dc5f243ba5d5b4efca9fd10&key=364bdb669b85e49ef93d0de8b9f31cf3
 #EXTINF:0 tvg-id="617" tvg-name="NickJR" tvg-logo="http://dusktill.masuk.web.id/img/nickjr.png" group-title="Kids",Nick Jr
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SFL123592&password=J7JTK50R&stream=71086
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -227,9 +232,6 @@ https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="394" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/191_144.png" group-title="Korea",Oh!K
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=712
 
-#EXTINF:-1 tvg-id="396" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg" group-title="Korea",K+
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SFL123592&password=J7JTK50R&stream=71111
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ddd9708a62b9e2eb44448dd1a6841310&key=0b248e71fef0c27988fa10049b32f309
 #EXTINF:-1 tvg-id="396" tvg-logo="http://linear-poster.astro.com.my/prod/logo/K-Plus_v1.png" group-title="Korea",K+ Astro
@@ -283,22 +285,24 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live12.mpd
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 
 #EXTINF:-1 tvg-id="801" tvg-name="ARENA HD" tvg-logo="https://i.imgur.com/HlB71nE.jpg" group-title="Sport",ARENA HD
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SFL123592&password=J7JTK50R&stream=71102
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 
 #EXTINF:-1 tvg-id="802" tvg-name="ARENA HD 2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="Sport",ARENA HD 2
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=965
 
 #EXTINF:-1 tvg-id="811" tvg-name="SUPERSPORT" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="Sport",SUPERSPORT 1
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SFL123592&password=J7JTK50R&stream=1722
+http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=972
 
 #EXTINF:-1 tvg-id="812" tvg-name="SUPERSPORT 2" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport2.png" group-title="Sport",SUPERSPORT 2
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SFL123592&password=J7JTK50R&stream=1721
+http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=971
 
 #EXTINF:-1 tvg-id="813" tvg-name="SUPERSPORT 3" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport3.png" group-title="Sport",SUPERSPORT 3
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SFL123592&password=J7JTK50R&stream=1720
+http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=970
 
 #EXTINF:-1 tvg-id="814" tvg-name="SUPERSPORT 4" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport4.png" group-title="Sport",SUPERSPORT 4
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SFL123592&password=J7JTK50R&stream=1719
+http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=969
 
 #EXTINF:-1 tvg-id="815" tvg-name="SUPERSPORT 5" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png" group-title="Sport",SUPERSPORT 5
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=968
@@ -323,8 +327,10 @@ https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 #EXTINF:-1 group-title="Sport" tvg-id="816" tvg-chno="100" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/bfc0c9e433a4484c8f30b93aaf043f2b/version/0/width/368/height/208/quality/80",SPOTV
 https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e2a4758854ddf83f1e8f465a3d3d8910&key=a464e1f2f904d40f3235a57304e72d78
 #EXTINF:-1 tvg-id="800" tvg-name="eGG Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png" group-title="Sport",eGG Network
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SFL123592&password=J7JTK50R&stream=71101
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2602/default_ott.mpd
 
 
 ==================Radio==============================================
