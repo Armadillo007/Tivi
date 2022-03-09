@@ -19,7 +19,6 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/D
 https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 
 #EXTINF:-1 tvg-id="RTMK06" tvg-country="MY" tvg-language="Malay" group-title="MALAYSIA" tvg-logo="https://mediahomes.github.io/logos/tv6.png",TV6
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 
 #EXTINF:-1 tvg-id="147" tvg-country="MY" tvg-language="Malay" group-title="MALAYSIA" DidikTV KPM" tvg-logo="https://didik.tv/images/logotv2.png",DidikTV KPM
@@ -29,7 +28,7 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/D
 https://stream-04.dc3.dailymotion.com:443/sec(_9ERdFwnAbs1GZsc1AwhHeVS4pujIZB8yZV4H4ASdw8)/dm/3/x6qud17/s/live-1.m3u8
 
 #EXTINF:-1 tvg-id="149" tvg-name="TV9" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tv9.png" group-title="MALAYSIA",TV9
-https://stream-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 
 #EXTINF:-1 tvg-id="122" tvg-country="MY" tvg-language="Malay" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png" group-title="MALAYSIA",TVS
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
