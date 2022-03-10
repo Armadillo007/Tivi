@@ -37,7 +37,7 @@ https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 
-#EXTINF:-1 xui-id="000" tvg-id="" tvg-country="MY" tvg-language="Malay" group-title="MALAYSIA" tvg-name="TV Ikim-DOWN" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg",TV Ikim
+#EXTINF:-1 xui-id="CHN" tvg-id="CHN" tvg-country="MY" tvg-language="Malay" group-title="MALAYSIA" tvg-name="TV Ikim-DOWN" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg",TV Ikim
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
 #EXTINF:-1 tvg-id="611" tvg-name="CERIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="MALAYSIA",CERIA TEST
@@ -66,7 +66,7 @@ http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=802202
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-https://linears-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SFL122431&password=N6EG15T0&stream=1706
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SFL122431&password=N6EG15T0&stream=1706
 
 #EXTINF:-1 tvg-id="108" tvg-name="CITRA" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/citra.png" group-title="MALAYSIA",CITRA TEST
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=721
@@ -75,7 +75,7 @@ http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=802202
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-https://linears-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SFL122431&password=N6EG15T0&stream=71146
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SFL122431&password=N6EG15T0&stream=71146
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
@@ -282,10 +282,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
 #EXTINF:-1 tvg-id="223" ch-number="223" group-title="India" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/297_144.png",Zee Tamil
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd
 
-#EXTINF:-1 tvg-id="214" ch-number="214" group-title="India" tvg-logo="https://user-images.githubusercontent.com/85995579/130947065-c352cfdd-f4eb-47e3-aec3-806e76cec321.png",Adithya
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e43b89a409027b38c471e4088cf76210&key=2ded2169b89a80a1179f501fa3b6c081
-https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=31ff25ad46df61d3352a03de5f085f10&key=2daee966c9736498a05505174b266bde
+#EXTINF:-1 tvg-id="241" ch-number="BoxOfficeThangathirai" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/177_144.png" group-title="India",ABO THANGATHIRAI
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
 
 #EXTINF:-1 tvg-id="213" ch-number="213" group-title="India" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/51_144.png",Chutti TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -302,10 +302,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
 #EXTINF:-1 tvg-id="116" ch-number="ColorsHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/365_144.png" group-title="India",Colors Hindi
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ae3120ac55315813212677bbb2ce8b10&key=dfb51c7a6e066fe0aa1da05ab2ae1a9d
-#EXTINF:-1 tvg-id="204" ch-number="MakkalTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/47_144.png" group-title="India",Makkal TV
-https://linearjitp-playback.astro.com.my/dash-wv/linear/709/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/zeebioskop.png" group-title="India",ZEE BIOSKOP
+https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 #EXTINF:-1 tvg-id="211" ch-number="211" group-title="India" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png",Sun TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -368,7 +368,7 @@ http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=802202
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6d2d84310d3fb9230404a1fbf5b33d10&key=8be93a0a6b41efad87096080bc55211a
 #EXTINF:-1 tvg-id="811" tvg-name="SUPERSPORT" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="Sport",SUPERSPORT 1 - TEST
-https://linears-playback.astro.com.my/vsg/21nPNWSU0dlC9OQjhhBKVquIHIowGj3jVQ5KiMiV6iN5E=qxRv/dash-wv/jitp-linearwm/601/default_ott.mpd
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SFL122431&password=N6EG15T0&stream=1722
 
 #EXTINF:-1 tvg-id="812" tvg-name="SUPERSPORT 2" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport2.png" group-title="Sport",SUPERSPORT 2
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=971
@@ -376,7 +376,7 @@ http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=802202
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=369ee7aba1e1504f85366b899d81ef10&key=299fbf0f774920858ff4fabf0afbe6b7
 #EXTINF:-1 tvg-id="812" tvg-name="SUPERSPORT 2" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport2.png" group-title="Sport",SUPERSPORT 2 - TEST
-https://linears-playback.astro.com.my/vsg/21nPNWSU0dlC9OQjhhBKVquIHIowGj3jVQ5KiMiV6iN5E=qxRv/dash-wv/jitp-linearwm/2104/default_ott.mpd
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SFL122431&password=N6EG15T0&stream=1721
 
 #EXTINF:-1 tvg-id="813" tvg-name="SUPERSPORT 3" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport3.png" group-title="Sport",SUPERSPORT 3
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=970
@@ -384,7 +384,7 @@ http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=802202
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a522db0e2c8b90c38b64187018648a10&key=cf66fd59fe28f45418628313e06d52da
 #EXTINF:-1 tvg-id="813" tvg-name="SUPERSPORT 3" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport3.png" group-title="Sport",SUPERSPORT 3 - TEST
-https://linears-playback.astro.com.my/vsg/21nPNWSU0dlC9OQjhhBKVquIHIowGj3jVQ5KiMiV6iN5E=qxRv/dash-wv/jitp-linearwm/2701/default_ott.mpd
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SFL122431&password=N6EG15T0&stream=1720
 
 #EXTINF:-1 tvg-id="814" tvg-name="SUPERSPORT 4" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport4.png" group-title="Sport",SUPERSPORT 4
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=969
@@ -392,7 +392,7 @@ http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=802202
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0f38843b85760decb7a30fde6af3ff10&key=9c50a5c2b6219463f05c5d8f9f42892e
 #EXTINF:-1 tvg-id="814" tvg-name="SUPERSPORT 4" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport4.png" group-title="Sport",SUPERSPORT 4 - TEST
-https://linears-playback.astro.com.my/vsg/21nPNWSU0dlC9OQjhhBKVquIHIowGj3jVQ5KiMiV6iN5E=qxRv/dash-wv/jitp-linearwm/2506/default_ott.mpd
+http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SFL122431&password=N6EG15T0&stream=1719
 
 #EXTINF:-1 tvg-id="815" tvg-name="SUPERSPORT 5" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png" group-title="Sport",SUPERSPORT 5
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=968
@@ -410,15 +410,15 @@ https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTINF:-1 tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/beinsport2.png" group-title="Sport",BEIN SPORTS 2
-http://93.152.174.144:4000/play/bein2fr/index.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="819" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="Sport",BEIN SPORTS 3
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="819" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="Sport",BEIN SPORTS 3
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ec837724b4265d2e127e65c542aee410&key=0ce930620687ab1df1cf6544f2dc0013
 #EXTINF:-1 group-title="Sport" tvg-id="816" tvg-chno="100" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/bfc0c9e433a4484c8f30b93aaf043f2b/version/0/width/368/height/208/quality/80",SPOTV
 https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 
