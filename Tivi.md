@@ -89,18 +89,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
-#EXTINF:-1 tvg-name="HBOHD" tvg-id="411" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png" group-title="Movie",HBO TEST
-https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="414" tvg-name="HBOFamily" tvg-logo="http://dusktill.masuk.web.id/img/hbofamily.png" group-title="Movie",HBO Family
-https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
-#EXTINF:0 tvg-id="414" tvg-name="HBOFamily" tvg-logo="http://dusktill.masuk.web.id/img/hbofamily.png" group-title="Movie",HBO Family TEST
 https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -110,7 +100,7 @@ https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=2d8d9b7ed94fad6e56f1642504605b10&key=cf881ed230797c106f8e6ac843d797f3
-#EXTINF:0 tvg-id="415" tvg-name="HBOHits" tvg-logo="http://dusktill.masuk.web.id/img/hbohits.png" group-title="Movie",HBO Hits
+#EXTINF:0 tvg-id="415" tvg-name="HBOHits" tvg-logo="http://dusktill.masuk.web.id/img/hbohits.png" group-title="Movie",HBO Hits TEST
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -260,6 +250,11 @@ https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 #EXTINF:-1 group-title="Korea" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kbs_world_kr.png",KBS World HD
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Korea" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kbs_world_kr.png",KBS World HD TEST
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=76ac661111eadf6ffde0dcdbd16fcb10&key=24b391c868de298804403a024e6ce7de
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_ott.mpd
 
 #EXTINF:-1 tvg-id="394" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/191_144.png" group-title="Korea",Oh!K
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=712
