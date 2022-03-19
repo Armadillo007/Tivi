@@ -43,7 +43,7 @@ http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 #EXTINF:-1 tvg-id="611" tvg-name="CERIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="MALAYSIA",CERIA TEST
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39b114b7ebecd9d4a7f1c797dd885b10&key=8d2be29307bb382c8c6c286cc9cd07c6
-http://mu0312.wanicelife.com:8880/SWFAF143575/VD6UF9EX/71080?token=TBRRBxJfEA9BWQkIUgBWVggBAVIIBwVUVwAJB1EBAQNWAw4HBFEBVAAaHBtCRUIEWV5tC1QTC1UAVQAEGBJCElJEZg8FFQgXVAkIAQYTHENMWl8HEgsAVAVSDwQGCARTGxRJDwUVCBdRAQQMBRMcQ11LRgdCX1AObgFdQl1TUkMNWEwKDRsQWg1nVFxcUF4FGgkQUxIdEwtCFRoOWkVbDRsUWw8VRVNBBhoKGwAHCFIaHxABX0RfFkMcGg4WfW5DGxRcHhVSXEYKV14bCxNEEhofEAtDbkMHQhFKUVVdUhMVDBtWQxsQWAJAb1peX14EW0dbDV5CE1gTVhoYFl1YD15CVhQ+R1tRQQISCwgFBFcaTg==
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
 
 #EXTINF:-1 tvg-id="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png" group-title="MALAYSIA",RIA TEST
 http://95.214.235.96:8880/SWFAF143575/VD6UF9EX/1705
@@ -53,12 +53,6 @@ http://95.214.235.96:8880/SWFAF143575/VD6UF9EX/1706
 
 #EXTINF:-1 tvg-id="108" tvg-name="CITRA" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/citra.png" group-title="MALAYSIA",CITRA TEST
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=721
-
-#EXTINF:-1 tvg-id="108" tvg-name="CITRA" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/citra.png" group-title="MALAYSIA",CITRA TEST 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-http://mu0312.wanicelife.com:8880/SWFAF143575/VD6UF9EX/71146?token=TBRRBxJfEA9BCwMBUAAIUgxVUFIEVwZbAlBaBwwCUwIOAVgCU1ULBlMaHBtCRUIEWV5tC1QTC1UAVAwCGBJCElJEZg8FFQgXVAkIAQYTHENMWl8HEgsAVAVSDwQGCQVWGxRJDwUVCBdRAQAKBRMcQ11LRgdCX1AObgFdQl1TUkMNWEwKDRsQWg1nVFxcUF4FGgkQUxIdEwtCFRoOWkVbDRsUWw8VRVNBBhoKGwAGAlUaHxABX0RfFkMcGg4WfW5DGxRcHhVSXEYKV14bCxNEEhofEAtDbkMHQhFKUVVdUhMVDBtWQxsQWAJAb1peX14EW0dbDV5CE1gTVhoYFl1YD15CVhQ+R1tRQQISCwgBAVkaTg==
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
