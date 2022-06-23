@@ -9,7 +9,7 @@ https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
 #EXTINF:-1 tvg-id="103" tvg-country="MY" tvg-language="Malay" group-title="MALAYSIA" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png",TV3
-http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8sBeef1wc-i1PVgoVCiD-Q&dmTs=509334&dmV1st=C0892E8420F15E3E283859C8271BFFD4
+https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3
 
 #EXTINF:-1 tvg-id="105" tvg-country="MY" tvg-language="Malay" group-title="MALAYSIA" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg",Drama Sangat
 #EXTVLCOPT:http-referrer=https://dailymotion.com
