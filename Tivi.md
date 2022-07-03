@@ -18,7 +18,7 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/D
 #EXTINF:-1 tvg-id="RTMK04" tvg-country="MY" tvg-language="Malay" group-title="MALAYSIA" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Berita-NEW-PlayerLogo.jpg",Berita RTM
 https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 
-#EXTINF:-1 tvg-id="RTMK06" tvg-country="MY" tvg-language="Malay" group-title="MALAYSIA" tvg-logo="https://mediahomes.github.io/logos/tv6.png",TV6
+#EXTINF:-1 tvg-id="RTMK06" tvg-country="MY" tvg-language="Malay" group-title="MALAYSIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814",TV6
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 
 #EXTINF:-1 tvg-id="147" tvg-country="MY" tvg-language="Malay" group-title="MALAYSIA" DidikTV KPM" tvg-logo="https://didik.tv/images/logotv2.png",DidikTV KPM
@@ -63,17 +63,17 @@ https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="414" tvg-name="HBOFamily" tvg-logo="http://dusktill.masuk.web.id/img/hbofamily.png" group-title="Movie",HBO Family
+#EXTINF:0 tvg-id="414" tvg-name="HBOFamily" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="Movie",HBO Family
 https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="415" tvg-name="HBOHits" tvg-logo="http://dusktill.masuk.web.id/img/hbohits.png" group-title="Movie",HBO Hits
+#EXTINF:0 tvg-id="415" tvg-name="HBOHits" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movie",HBO Hits
 https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="CHN" tvg-name="HBOSignature" tvg-logo="http://dusktill.masuk.web.id/img/hbosig.png" group-title="Movie",HBO Signature
+#EXTINF:0 tvg-id="CHN" tvg-name="HBOSignature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Movie",HBO Signature
 https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -88,32 +88,32 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="706" tvg-name="Hits" tvg-logo="http://dusktill.masuk.web.id/img/hits.png" group-title="Movie",HITS
+#EXTINF:0 tvg-id="706" tvg-name="Hits" tvg-logo="https://www.hitstv.com/img/hits-movies-logo.png" group-title="Movie",HITS
 https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="401" tvg-name="HitsMovie" tvg-logo="http://dusktill.masuk.web.id/img/hitsmovies.png" group-title="Movie",HITS Movies
+#EXTINF:0 tvg-id="401" tvg-name="HitsMovie" tvg-logo="https://www.hitstv.com/assets/logo-HITSMOVIES.png" group-title="Movie",HITS Movies
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="701" tvg-name="AXN" tvg-logo="http://dusktill.masuk.web.id/img/axn.png" group-title="Movie",AXN
+#EXTINF:0 tvg-id="701" tvg-name="AXN" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="Movie",AXN
 https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="705" tvg-name="Kix" tvg-logo="http://dusktill.masuk.web.id/img/kix.png" group-title="Movie",KIX
+#EXTINF:0 tvg-id="705" tvg-name="Kix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="Movie",KIX
 https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="CHN" tvg-name="Thrill" tvg-logo="http://dusktill.masuk.web.id/img/thrill.png" group-title="Movie",Thrill
+#EXTINF:0 tvg-id="CHN" tvg-name="Thrill" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png/revision/latest/scale-to-width-down/240?cb=20170606050150" group-title="Movie",Thrill
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="712" tvg-name="WarnerTV" tvg-logo="http://dusktill.masuk.web.id/img/warner.png" group-title="Movie",Warner TV
+#EXTINF:0 tvg-id="712" tvg-name="WarnerTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/WarnerTVAsia.png/revision/latest/scale-to-width-down/300?cb=20180325001201" group-title="Movie",Warner TV
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -123,7 +123,7 @@ https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="309" tvg-name="CelestialMovie" tvg-logo="http://dusktill.masuk.web.id/img/cm.png" group-title="Movie",Celestial Movies
+#EXTINF:0 tvg-id="309" tvg-name="CelestialMovie" tvg-logo="https://www.deviantart.com/huyvo2001/art/Celestial-Movies-logo-895139529" group-title="Movie",Celestial Movies
 https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
